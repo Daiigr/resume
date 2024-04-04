@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-I'm Daniel, a first-year Computer Science student at the University of Groningen, specializing in iOS development. My journey, starting from the UK, moving to Qatar, and now residing in the Netherlands, has been driven by my passion for technology and an insatiable quest for knowledge. I'm currently honing my skills in Swift and C programming, while also exploring the nuances of Linux. My academic journey is just beginning, but my love for technology has deep roots, stretching back to a childhood filled with gadgets, games, and the relentless question of "How?".
+I'm Daniel, a first-year Computer Science student at the University of Groningen with a focus on iOS development. My journey has taken me from the UK to Qatar, and now the Netherlands, fueled by a passion for technology and an unquenchable thirst for knowledge. I'm currently sharpening my skills in Swift and C programming, while also delving into the intricacies of Linux. My academic journey has just started, but my fascination with technology has deep roots, dating back to a childhood filled with gadgets, games, and the constant question of "How?".
 
 ### 📚 Education
 
@@ -11,10 +11,14 @@ I'm Daniel, a first-year Computer Science student at the University of Groningen
 
 ### 💼 Experience
 
-- **Vice President** of the Tech Club, organizing events like our school's Maker Faire and securing sponsorships.
-- **Founder and Coach** of a robotics team, leading to a second-place finish at the FTC Qatar Nationals and participation in the FTC 2022 World Championship in Houston.
-- **Participant** in the Inspirit AI Summer Program, gaining insights into AI model building.
-- **iOS Developer** for [WindRider](https://github.com/Daiigr/windrider-ios.git), an app designed to enhance the cycling experience by analyzing wind conditions.
+- **Vice President** of the Tech Club, where I organized events like our school's Maker Faire and secured sponsorships.
+- **Founder and Coach** of a robotics team, which led to a second-place finish at the FTC Qatar Nationals and participation in the FTC 2022 World Championship in Houston.
+- **Participant** in the Inspirit AI Summer Program, where I gained insights into AI model building.
+- **iOS Developer** for [WindRider](https://github.com/Daiigr/windrider-ios.git), an app designed to improve the cycling experience by analyzing wind conditions.
+
+### 📚 Projects
+
+- **[Chatterbox CLI](https://github.com/Daiigr/chatterbox-cli.git)**: A command-line chat application built with Go. This project showcases network programming, secure communication through cryptography, and user interface creation with the Bubbletea library.
 
 ### 🛠 Skills
 
@@ -24,7 +28,7 @@ I'm Daniel, a first-year Computer Science student at the University of Groningen
 
 ### 📸 Hobbies
 
-I find joy in Cooking, Photography, Technology, Gaming, and Baking. My camera is my lens to the world, capturing moments that tell stories without words.
+I enjoy Cooking, Photography, Technology, Gaming, and Baking. My camera serves as my window to the world, capturing moments that tell stories without words.
 
 ### 🚀 Current Projects
 
