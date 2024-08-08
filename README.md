@@ -6,7 +6,7 @@ I'm Daniel, a first-year Computer Science student at the University of Groningen
 
 ### 📚 Education
 
-- **BSc in Computer Science** - University of Groningen (2021 - Present)
+- **BSc in Computer Science** - University of Groningen (2023 - Present)
 - **High School** - American School Of Doha
 
 ### 💼 Experience
